@@ -1,4 +1,4 @@
-# ** Neuora Framework**
+# Neuora Framework
 
 ### **Revolutionizing AI with Decentralized Intelligence**
 
