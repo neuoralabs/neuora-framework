@@ -8,6 +8,9 @@ This project isn’t just a framework; it’s a showcase of collaborative innova
 
 ---
 
+![demo gif](docs/demo.gif)
+
+
 ## **Key Features**
 
 ### **1. Modular AI Agents**
