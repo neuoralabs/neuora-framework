@@ -7,7 +7,7 @@
 This project isn’t just a framework; it’s a showcase of collaborative innovation between human creators and AI agents. Every component of this repository has been conceptualized, designed, and refined through the synergy of human oversight and machine intelligence.
 
 ---
-
+A ruthless LLM testing framework 
 ![demo gif](docs/demo.gif)
 
 
