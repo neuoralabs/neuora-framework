@@ -1,3 +1,5 @@
+![neoura-banner](docs/neoura-banner.jpg)
+
 # Neuora Framework
 
 ### **Revolutionizing AI with Decentralized Intelligence**
