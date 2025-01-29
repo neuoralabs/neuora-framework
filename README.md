@@ -1,4 +1,6 @@
-![neoura-banner](docs/neoura-banner.jpg)
+<div align="center">
+  <img src="./Docs/neuora-banner.jpg" alt="Sora Banner" width="100%" />
+</div>
 
 # Neuora Framework
 
