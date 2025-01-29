@@ -1,8 +1,8 @@
-# **Aether Framework**
+# ** Neuora Framework**
 
 ### **Revolutionizing AI with Decentralized Intelligence**
 
-**Aether Framework** is an open-source platform for building modular, scalable, and decentralized AI systems. It’s designed for developers to create autonomous agents with capabilities such as task delegation, multi-modal processing, swarm intelligence, and blockchain integration.
+**Neuora Framework** is an open-source platform for building modular, scalable, and decentralized AI systems. It’s designed for developers to create autonomous agents with capabilities such as task delegation, multi-modal processing, swarm intelligence, and blockchain integration.
 
 This project isn’t just a framework; it’s a showcase of collaborative innovation between human creators and AI agents. Every component of this repository has been conceptualized, designed, and refined through the synergy of human oversight and machine intelligence.
 
@@ -36,8 +36,8 @@ This project isn’t just a framework; it’s a showcase of collaborative innova
 ### **1. Installation**
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/yourusername/aether-framework.git
-cd aether-framework
+git clone https://github.com/yourusername/neuora-framework.git
+cd neuora-framework
 pip install -r requirements.txt
 ```
 
@@ -80,7 +80,7 @@ By providing this framework, we aim to inspire and empower developers to explore
 ---
 
 ## **Built with AI**
-The Aether Framework represents a collaborative effort between human creativity and AI-driven agents. Every line of code has been guided and enhanced by AI, making this repository a testament to the power of human-AI synergy.
+The Neuora Framework represents a collaborative effort between human creativity and AI-driven agents. Every line of code has been guided and enhanced by AI, making this repository a testament to the power of human-AI synergy.
 
 ---
 
